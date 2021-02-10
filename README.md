@@ -6,3 +6,10 @@ THE PROGRAMS ARE AS FOLLOWS:-
 3.KARATSUBA ALGORITHM (MULTIPLY)
 4.INTERPOLATION SEARCH (USING LIST)
 5.INVERSION 
+Added Some More Codes:-
+1.HeapSort
+2.TimSort
+3.OddEvenSort
+4.FiboSearch
+5.Itterative Deepening Search
+6.Decimal to Binary Conversion & Binary to Hexadecimal Conversion
